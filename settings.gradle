@@ -1,1 +1,1 @@
-include ':app', ':library', ':AndroidBootstrap'
+include ':app', ':library', ':AndroidBootstrap', ':MaterialTabsModule'
